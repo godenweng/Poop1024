@@ -8,6 +8,7 @@ x7 = u"Hello World"
 x8 = 'hello\nworld'
 x9 = 'hello\tworld'
 x10 = 'ˋ中文'
+
 print(type(x1),type(x2),type(x3),type(x4))
 print(type(x5))
 print(type(x6))
