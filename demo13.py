@@ -13,3 +13,4 @@ for r in roundings:
             intput_value = Decimal(l)
             output = Decimal(intput_value.quantize(Decimal(1), rounding=r))
             print("using {} , {} becomes {}".format(r, l, output))
+            print(f"**using {r},{l} becomes {output}")
