@@ -1,0 +1,5 @@
+d1 = dict(name='Poop', instructor='MarkHo', duration=35)
+d2 = dict([('name', 'Poop'), ('instructor', 'MarkHo'), ('duration', 35)])
+print(type(d1), type(d2))
+print(d1, d2)
+print(d1 == d2)

@@ -1,0 +1,18 @@
+l1 = [8,2,-1,4,3,6,9]
+l1.sort()
+print(l1)
+l2 = list('asdfghjkl;123456789u一五七')
+l2.sort()
+print(l2)
+l3 = list('QWERTYUIOPqwrtyui')
+l3.sort()
+print(l3)
+l4 = list('1234QWERTYUIOPqwrtyui5678一五七')
+print(type(str.lower))
+l4.sort(key=str.lower)
+print(l4)
+
+l5 = list('1234QWUIOPqyui5678一五七')
+print(type(str.lower))
+l5.sort(key=str.lower)
+print(l5)
