@@ -14,3 +14,10 @@ l1.remove('$')
 print(l1)
 l1.remove('!')
 print(l1)
+
+
+l3 = list('ABCD****')
+print(l3)
+for _ in range(l3.count('*')):
+    l3.remove('*')
+print(l3)
