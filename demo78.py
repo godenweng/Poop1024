@@ -5,14 +5,17 @@ def my_oreo(func):
         print("lower side chocolate cookie")
     return wrapper
 
-def add_filling():
+@my_oreo
+def regular_filling():
     print("butter_cream!")
 
-def add_filling111():
+@my_oreo
+def peanut_filling():
     print("coff_cream!")
 
-getOreo = my_oreo(add_filling)
-getOreo()
-print( "---------------")
-getOreo1 = my_oreo(add_filling111)
-getOreo1()
+fillings = [regular_filling,peanut_filling]
+
+for f in fillings:
+    print("--------")
+    f()
+
