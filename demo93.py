@@ -30,7 +30,7 @@ class A(S, metaclass=SimpleMeta):
 
 print("instinate S1 and a1")
 s1 = S('james', 20)
-a1 = A('mark', 43)
-a2 = A('abby', 34)
-print(s1.__class__, a1.__class__, a2.__class__)
-print(s1.__class__.__bases__, a1.__class__.__bases__)
+# a1 = A('mark', 43)
+# a2 = A('abby', 34)
+# print(s1.__class__, a1.__class__, a2.__class__)
+# print(s1.__class__.__bases__, a1.__class__.__bases__)
