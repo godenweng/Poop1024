@@ -1,0 +1,98 @@
+基百科，自由的百科全書 
+
+
+
+跳至導覽
+
+跳至搜尋
+
+
+
+Disambig gray.svg  關於與「Python」名稱相近或相同的條目，請見「Python (消歧義)」。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Python
+
+Python logo and wordmark.svg 
+
+編程範型
+多範式：函數式、指令式、物件導向、結構化、反射式 
+
+設計者
+吉多·范羅蘇姆 
+
+實作者
+Python軟體基金會 
+
+面市時間
+1991年，​29年前 
+ 
+
+穩定版本
+
+3.9.0 （ 2020年10月5日，​33天前[1] ） 
+
+
+預覽版本
+
+3.10.0a1 （ 2020年10月5日，​33天前[2] ） 
+
+ 
+
+型態系統
+鴨子型別, 動態, 漸進（自從3.5）[3] 
+
+作業系統
+跨平台 
+
+授權條款
+Python軟體基金會授權條款 
+
+副檔名
+.py、.pyi、.pyc、.pyd、.pyo（3.5之前）[4]、.pyw、.pyz（自從3.5）[5] 
+
+網站
+www.python.org 編輯維基數據鏈結 
+
+主要實作產品
+
+CPython、PyPy、IronPython、Jython、Stackless Python、MicroPython、CircuitPython、RustPython 
+
+衍生副語言
+
+Cython、RPython、Starlark 
+
+啟發語言
+
+ABC、ALGOL 68、C、C++、CLU、Dylan、Haskell、Icon、Java、Lisp、Modula-3、Perl、Standard ML 
+
+影響語言
+
+Boo、Cobra、D、F#、Falcon、Genie、Go、Groovy、JavaScript、Ruby 
+ 維基教科書中有關zh:Python的文字
+ 
+
+Python（英國發音：/ˈpaɪθən/ 美國發音：/ˈpaɪθɑːn/）是一種廣泛使用的直譯式、進階程式、通用型程式語言。Python支援多種程式範式，包括物件導向、結構化、指令式、函數式和反射式程式。它擁有動態型別系統和垃圾回收功能，能夠自動管理記憶體使用，並且其本身擁有一個巨大而廣泛的標準庫。 
+
+Python由吉多·范羅蘇姆創造，第一版釋出於1991年，它是ABC語言的後繼者，也可以視之為一種使用傳統中綴表達式的LISP方言[6]。 
+
+Python的設計哲學強調代碼的可讀性和簡潔的語法，尤其是使用空格縮排劃分代碼塊。相比於C或Java，Python讓開發者能夠用更少的代碼表達想法。不管是小型還是大型程式，該語言都試圖讓程式的結構清晰明瞭。 
+
+Python直譯器本身幾乎可以在所有的作業系統中執行。Python的官方直譯器CPython是用C語言編寫的，它是一個由社群驅動的自由軟體，目前由Python軟體基金會管理。 
+
+
+目錄 [隱藏]
+1 歷史
